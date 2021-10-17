@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kediyi Bul</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="code.js"></script>
+</head>
+<body>
+
+
+
+
+
+<h2>Kedi Bulmaca</h2>
+
+<img id="img0" class="kart" src="mavi.png"  onclick="imgClick(this.id)">
+<img id="img1" class="kart" src="mavi.png"  onclick="imgClick(this.id)">
+<img id="img2" class="kart" src="mavi.png"  onclick="imgClick(this.id)">
+
+
+
+<div class="mesaj">
+  <p id="alanId">Kedi kartını bulmak için kartın üzerine tıklamalısın.2 Hakkın var.</p>
+  <p id="kazandiId" style="display: none">Kazandın!
+    <a href="" onclick="shuffleCards()">Yeniden Oyna</a>
+  </p>
+  <p id="yenildiId" style="display: none">Kaybettin!
+    <a href="" onclick="shuffleCards()">Yeniden Oyna</a>
+  </p>
+</div>
+<script>shuffleCards();</script>
+
+</body>
+</html>
