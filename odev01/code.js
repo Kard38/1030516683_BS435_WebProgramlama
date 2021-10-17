@@ -32,10 +32,11 @@ function shuffleCards ()
 const imgClick = (imgId) =>
 {   //if same card is clicked don't do anything else flip the card
     if(lastClicked === imgId)
-    {}
+    {}  //same card do nothing
     else
-    {
+    {   //different card send it to flipCard and change lastClicked
         flipCard(imgId);
+        lastClicked = imgId;
         sayac++;
     }
 
