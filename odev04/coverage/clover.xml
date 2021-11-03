@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1635932115778" clover="3.2.0">
+  <project timestamp="1635932115778" name="All files">
+    <metrics statements="25" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="8" coveredmethods="7" elements="45" coveredelements="41" complexity="0" loc="25" ncloc="25" packages="1" files="2" classes="2"/>
+    <file name="Game.jsx" path="C:\Users\omer\Desktop\4.Sınıf_Dersler\odv03_denemeler\odev_03_hoca\src\Game.jsx">
+      <metrics statements="22" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
+      <line num="5" count="55" type="stmt"/>
+      <line num="6" count="55" type="stmt"/>
+      <line num="16" count="55" type="stmt"/>
+      <line num="17" count="107" type="stmt"/>
+      <line num="19" count="107" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="85" type="stmt"/>
+      <line num="23" count="85" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="36" type="stmt"/>
+      <line num="25" count="36" type="stmt"/>
+      <line num="27" count="49" type="stmt"/>
+      <line num="28" count="49" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="17" type="stmt"/>
+      <line num="32" count="85" type="stmt"/>
+      <line num="38" count="85" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="53" type="stmt"/>
+      <line num="47" count="55" type="stmt"/>
+      <line num="48" count="51" type="stmt"/>
+      <line num="58" count="191" type="stmt"/>
+      <line num="59" count="191" type="stmt"/>
+      <line num="63" count="54" type="stmt"/>
+      <line num="64" count="52" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+    </file>
+    <file name="index.jsx" path="C:\Users\omer\Desktop\4.Sınıf_Dersler\odv03_denemeler\odev_03_hoca\src\index.jsx">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
